@@ -1,0 +1,323 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0B0D2C3D1D51787900E206D6 /* saldanaj.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B0D2C3C1D51787900E206D6 /* saldanaj.cpp */; };
+		0B2EFC521D52E04700187BD6 /* JoaquinsUtilities.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B2EFC4F1D52E04700187BD6 /* JoaquinsUtilities.cpp */; };
+		0B2EFC531D52E04700187BD6 /* Makefile in Sources */ = {isa = PBXBuildFile; fileRef = 0B2EFC511D52E04700187BD6 /* Makefile */; };
+		0B2EFC561D542C2C00187BD6 /* GadgetContainer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B2EFC551D542C2C00187BD6 /* GadgetContainer.cpp */; };
+		0B2EFC591D5456E200187BD6 /* DCCharacter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B2EFC581D5456E200187BD6 /* DCCharacter.cpp */; };
+		0B2EFC5C1D570E8200187BD6 /* Batman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B2EFC5B1D570E8200187BD6 /* Batman.cpp */; };
+		0B513BDB1D57D32600DD478E /* Joker.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B513BDA1D57D32600DD478E /* Joker.cpp */; };
+		0B513BDE1D57E69800DD478E /* Space.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B513BDD1D57E69800DD478E /* Space.cpp */; };
+		0B513BE11D58121500DD478E /* Street.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B513BE01D58121500DD478E /* Street.cpp */; };
+		0B513BE41D58236700DD478E /* ParkingGarage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B513BE31D58236700DD478E /* ParkingGarage.cpp */; };
+		0B513BE71D5837ED00DD478E /* WayneManor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B513BE61D5837ED00DD478E /* WayneManor.cpp */; };
+		0B513BEA1D5846FA00DD478E /* BatCave.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B513BE91D5846FA00DD478E /* BatCave.cpp */; };
+		0B513BED1D58531100DD478E /* Arkham.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B513BEC1D58531100DD478E /* Arkham.cpp */; };
+		0B513BF01D5861B400DD478E /* ArkhamRoof.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B513BEF1D5861B400DD478E /* ArkhamRoof.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		0B0D2C301D51784300E206D6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		0B0D2C321D51784300E206D6 /* FinalProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FinalProject; sourceTree = BUILT_PRODUCTS_DIR; };
+		0B0D2C3C1D51787900E206D6 /* saldanaj.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = saldanaj.cpp; sourceTree = "<group>"; };
+		0B1263EE1D57C49C0022FC21 /* Joker.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Joker.hpp; sourceTree = "<group>"; };
+		0B2EFC4F1D52E04700187BD6 /* JoaquinsUtilities.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JoaquinsUtilities.cpp; sourceTree = "<group>"; };
+		0B2EFC501D52E04700187BD6 /* JoaquinsUtilities.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = JoaquinsUtilities.hpp; sourceTree = "<group>"; };
+		0B2EFC511D52E04700187BD6 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		0B2EFC541D54221800187BD6 /* GadgetContainer.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GadgetContainer.hpp; sourceTree = "<group>"; };
+		0B2EFC551D542C2C00187BD6 /* GadgetContainer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GadgetContainer.cpp; sourceTree = "<group>"; };
+		0B2EFC571D544F5B00187BD6 /* DCCharacter.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = DCCharacter.hpp; sourceTree = "<group>"; };
+		0B2EFC581D5456E200187BD6 /* DCCharacter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DCCharacter.cpp; sourceTree = "<group>"; };
+		0B2EFC5A1D56F98E00187BD6 /* Batman.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Batman.hpp; sourceTree = "<group>"; };
+		0B2EFC5B1D570E8200187BD6 /* Batman.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Batman.cpp; sourceTree = "<group>"; };
+		0B513BDA1D57D32600DD478E /* Joker.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Joker.cpp; sourceTree = "<group>"; };
+		0B513BDC1D57DDE600DD478E /* Space.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Space.hpp; sourceTree = "<group>"; };
+		0B513BDD1D57E69800DD478E /* Space.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Space.cpp; sourceTree = "<group>"; };
+		0B513BDF1D580EE800DD478E /* Street.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Street.hpp; sourceTree = "<group>"; };
+		0B513BE01D58121500DD478E /* Street.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Street.cpp; sourceTree = "<group>"; };
+		0B513BE21D5820BA00DD478E /* ParkingGarage.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ParkingGarage.hpp; sourceTree = "<group>"; };
+		0B513BE31D58236700DD478E /* ParkingGarage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ParkingGarage.cpp; sourceTree = "<group>"; };
+		0B513BE51D5833B900DD478E /* WayneManor.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = WayneManor.hpp; sourceTree = "<group>"; };
+		0B513BE61D5837ED00DD478E /* WayneManor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = WayneManor.cpp; sourceTree = "<group>"; };
+		0B513BE81D58428D00DD478E /* BatCave.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BatCave.hpp; sourceTree = "<group>"; };
+		0B513BE91D5846FA00DD478E /* BatCave.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BatCave.cpp; sourceTree = "<group>"; };
+		0B513BEB1D584F4500DD478E /* Arkham.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Arkham.hpp; sourceTree = "<group>"; };
+		0B513BEC1D58531100DD478E /* Arkham.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Arkham.cpp; sourceTree = "<group>"; };
+		0B513BEE1D585DB800DD478E /* ArkhamRoof.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ArkhamRoof.hpp; sourceTree = "<group>"; };
+		0B513BEF1D5861B400DD478E /* ArkhamRoof.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ArkhamRoof.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0B0D2C2F1D51784300E206D6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0B0D2C291D51784300E206D6 = {
+			isa = PBXGroup;
+			children = (
+				0B0D2C341D51784300E206D6 /* FinalProject */,
+				0B0D2C331D51784300E206D6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0B0D2C331D51784300E206D6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0B0D2C321D51784300E206D6 /* FinalProject */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0B0D2C341D51784300E206D6 /* FinalProject */ = {
+			isa = PBXGroup;
+			children = (
+				0B2EFC571D544F5B00187BD6 /* DCCharacter.hpp */,
+				0B2EFC581D5456E200187BD6 /* DCCharacter.cpp */,
+				0B2EFC5A1D56F98E00187BD6 /* Batman.hpp */,
+				0B2EFC5B1D570E8200187BD6 /* Batman.cpp */,
+				0B1263EE1D57C49C0022FC21 /* Joker.hpp */,
+				0B513BDA1D57D32600DD478E /* Joker.cpp */,
+				0B2EFC541D54221800187BD6 /* GadgetContainer.hpp */,
+				0B2EFC551D542C2C00187BD6 /* GadgetContainer.cpp */,
+				0B513BDC1D57DDE600DD478E /* Space.hpp */,
+				0B513BDD1D57E69800DD478E /* Space.cpp */,
+				0B513BDF1D580EE800DD478E /* Street.hpp */,
+				0B513BE01D58121500DD478E /* Street.cpp */,
+				0B513BE21D5820BA00DD478E /* ParkingGarage.hpp */,
+				0B513BE31D58236700DD478E /* ParkingGarage.cpp */,
+				0B513BE51D5833B900DD478E /* WayneManor.hpp */,
+				0B513BE61D5837ED00DD478E /* WayneManor.cpp */,
+				0B513BE81D58428D00DD478E /* BatCave.hpp */,
+				0B513BE91D5846FA00DD478E /* BatCave.cpp */,
+				0B513BEB1D584F4500DD478E /* Arkham.hpp */,
+				0B513BEC1D58531100DD478E /* Arkham.cpp */,
+				0B513BEE1D585DB800DD478E /* ArkhamRoof.hpp */,
+				0B513BEF1D5861B400DD478E /* ArkhamRoof.cpp */,
+				0B0D2C3C1D51787900E206D6 /* saldanaj.cpp */,
+				0B2EFC501D52E04700187BD6 /* JoaquinsUtilities.hpp */,
+				0B2EFC4F1D52E04700187BD6 /* JoaquinsUtilities.cpp */,
+				0B2EFC511D52E04700187BD6 /* Makefile */,
+			);
+			path = FinalProject;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0B0D2C311D51784300E206D6 /* FinalProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0B0D2C391D51784300E206D6 /* Build configuration list for PBXNativeTarget "FinalProject" */;
+			buildPhases = (
+				0B0D2C2E1D51784300E206D6 /* Sources */,
+				0B0D2C2F1D51784300E206D6 /* Frameworks */,
+				0B0D2C301D51784300E206D6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FinalProject;
+			productName = FinalProject;
+			productReference = 0B0D2C321D51784300E206D6 /* FinalProject */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0B0D2C2A1D51784300E206D6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = JQ;
+				TargetAttributes = {
+					0B0D2C311D51784300E206D6 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 0B0D2C2D1D51784300E206D6 /* Build configuration list for PBXProject "FinalProject" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0B0D2C291D51784300E206D6;
+			productRefGroup = 0B0D2C331D51784300E206D6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0B0D2C311D51784300E206D6 /* FinalProject */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0B0D2C2E1D51784300E206D6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0B513BE11D58121500DD478E /* Street.cpp in Sources */,
+				0B2EFC5C1D570E8200187BD6 /* Batman.cpp in Sources */,
+				0B2EFC531D52E04700187BD6 /* Makefile in Sources */,
+				0B513BED1D58531100DD478E /* Arkham.cpp in Sources */,
+				0B513BE71D5837ED00DD478E /* WayneManor.cpp in Sources */,
+				0B2EFC591D5456E200187BD6 /* DCCharacter.cpp in Sources */,
+				0B2EFC521D52E04700187BD6 /* JoaquinsUtilities.cpp in Sources */,
+				0B513BDB1D57D32600DD478E /* Joker.cpp in Sources */,
+				0B0D2C3D1D51787900E206D6 /* saldanaj.cpp in Sources */,
+				0B513BF01D5861B400DD478E /* ArkhamRoof.cpp in Sources */,
+				0B513BDE1D57E69800DD478E /* Space.cpp in Sources */,
+				0B2EFC561D542C2C00187BD6 /* GadgetContainer.cpp in Sources */,
+				0B513BEA1D5846FA00DD478E /* BatCave.cpp in Sources */,
+				0B513BE41D58236700DD478E /* ParkingGarage.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0B0D2C371D51784300E206D6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		0B0D2C381D51784300E206D6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		0B0D2C3A1D51784300E206D6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		0B0D2C3B1D51784300E206D6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0B0D2C2D1D51784300E206D6 /* Build configuration list for PBXProject "FinalProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0B0D2C371D51784300E206D6 /* Debug */,
+				0B0D2C381D51784300E206D6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0B0D2C391D51784300E206D6 /* Build configuration list for PBXNativeTarget "FinalProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0B0D2C3A1D51784300E206D6 /* Debug */,
+				0B0D2C3B1D51784300E206D6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0B0D2C2A1D51784300E206D6 /* Project object */;
+}

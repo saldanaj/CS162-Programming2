@@ -1,0 +1,7 @@
+This is a test string
+
+My name is Joaquin Saldana and IÕm currently a student at OSU 
+
+Currently taking course CS162 Intro to Computer Programming /0
+
+
